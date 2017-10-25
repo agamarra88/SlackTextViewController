@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.screenshots     = "https://github.com/agamarra88/SlackTextViewController/raw/master/Screenshots/slacktextviewcontroller_demo.gif"
   s.license         = { :type => 'MIT', :file => 'LICENSE' }
   s.author          = { "Slack Technologies, Inc." => "ios-team@slack-corp.com" }
-  s.source          = { :git => "https://github.com/agamarra88/SlackTextViewController.git", :tag => "v1.9.5.2" }
+  s.source          = { :git => "https://github.com/agamarra88/SlackTextViewController.git", :tag => "v1.9.5.3" }
   s.platform        = :ios, "7.0"
   s.requires_arc    = true
 
